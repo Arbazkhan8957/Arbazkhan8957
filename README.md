@@ -30,7 +30,10 @@
         <li>🤝 <b>Looking for help with:</b> Microservices ⚙️, API Security 🔐 & Scalable Systems 🚀.</li>
         <li>💬 <b>Ask me about:</b> Java, Spring Boot, REST APIs, Backend Development, and Database Design.</li>
         <li>📫 <b>How to reach me:</b> <a href="mailto:arbazkhan777030@gmail.com">arbazkhan777030@gmail.com</a></li>
-        <li>📄 <b>Resume:</b> <a href="https://drive.google.com/file/d/1j9H_A6XJx3ss3jlhrVzMNHPLggZ9v8iF/view">View my experiences</a></li>
+        <li>📄 <b>Resume:</b> 
+              <a href="https://drive.google.com/file/d/1ss3N-vDYpGT8pkBtn3OiF6x1pcFXyAYf/view?usp=sharing" target="_blank">
+              View my experiences</a>
+        </li>
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
