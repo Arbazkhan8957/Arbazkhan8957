@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 15px;" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohammad Arbaz</h1>
-<h3 align="center">Full Stack Java & Python Developer 🇮🇳 Building Scalable & High-Performance Web Apps</h3>
+<h3 align="center">Full Stack Java & Python Developer 🇮🇳 | Building Scalable, High-Performance Systems</h3>
 
 <p align="center">
   <a href="https://github.com/arbazkhan8957">
@@ -24,11 +24,11 @@
     <td width="60%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🔭 <b>Currently working on:</b> A scalable Contact Manager Application using Spring Boot & REST APIs, focusing on clean architecture.</li>
-        <li>🌱 <b>Currently learning:</b> Advanced Spring Boot, REST APIs, Spring Security, Data Structures, and System Design.</li>
-        <li>👯 <b>Looking to collaborate on:</b> Java Spring Boot Backend and Full Stack projects.</li>
-        <li>🤝 <b>Looking for help with:</b> Microservices ⚙️, API Security 🔐 & Scalable Systems 🚀.</li>
-        <li>💬 <b>Ask me about:</b> Java, Spring Boot, REST APIs, Backend Development, and Database Design.</li>
+        <li>🔭 <b>Currently working on:</b> A scalable Contact Manager Application using the Spring Framework & REST APIs, focusing on clean architecture.</li>
+        <li>🌱 <b>Currently learning:</b> Advanced Spring Boot, Cloud Computing architectures, Soft Computing, and Artificial Neural Networks.</li>
+        <li>👯 <b>Looking to collaborate on:</b> Java Spring Boot Backends, Full Stack applications, and Digital Image Processing tools.</li>
+        <li>🤝 <b>Looking for help with:</b> Microservices ⚙️, API Security 🔐, and deploying highly Scalable Systems 🚀.</li>
+        <li>💬 <b>Ask me about:</b> Java, Spring Boot, Python, Database Design, and algorithms (including Genetic Algorithms).</li>
         <li>📫 <b>How to reach me:</b> <a href="mailto:arbazkhan777030@gmail.com">arbazkhan777030@gmail.com</a></li>
         <li>📄 <b>Resume:</b> 
               <a href="https://drive.google.com/file/d/1ss3N-vDYpGT8pkBtn3OiF6x1pcFXyAYf/view?usp=sharing" target="_blank">
@@ -37,7 +37,32 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+      <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>Accurate Clinical Pathology</b><br/>
+      <i>A comprehensive full-stack management system designed for clinical pathology workflows, focusing on precision data handling and secure record management.</i><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>Furni-Scap</b><br/>
+      <i>A modern frontend application integrating sleek interior design concepts with robust e-commerce features, featuring state management and dynamic cart functionality.</i><br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -49,28 +74,32 @@
 <p align="center">
   <b>Backend & Databases</b><br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" title="Java"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" title="Django"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" title="C"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="45" title="Django"/>&nbsp;&nbsp;
+  <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45" title="SQL Server"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" title="Oracle"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45" title="SQLite"/>
 </p>
 
 <p align="center">
   <b>Frontend Development</b><br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" title="React"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" title="Redux"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>&nbsp;&nbsp;
+  <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" title="HTML5"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" title="CSS3"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45" title="Angular"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" title="React"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" title="Redux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>
 </p>
 
 <p align="center">
