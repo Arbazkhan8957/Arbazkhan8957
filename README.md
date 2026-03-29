@@ -21,25 +21,54 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
+    
+    <!-- LEFT SIDE CONTENT -->
     <td width="60%" valign="top">
-      <h3>👨‍💻 About Me</h3>
+
+      <h2>👨‍💻 About Me</h2>
+
       <ul>
-        <li>🔭 <b>Currently working on:</b> A scalable Contact Manager Application using the Spring Framework & REST APIs, focusing on clean architecture.</li>
-        <li>🌱 <b>Currently learning:</b> Advanced Spring Boot, Cloud Computing architectures, Soft Computing, and Artificial Neural Networks.</li>
+        <li>🔭 <b>Currently working on:</b> A scalable Contact Manager Application using Spring Framework & REST APIs with clean architecture.</li>
+
+        <li>🌱 <b>Currently learning:</b> Advanced Spring Boot, Cloud Computing, Soft Computing, and Artificial Neural Networks.</li>
+
         <li>👯 <b>Looking to collaborate on:</b> Java Spring Boot Backends, Full Stack applications, and Digital Image Processing tools.</li>
-        <li>🤝 <b>Looking for help with:</b> Microservices ⚙️, API Security 🔐, and deploying highly Scalable Systems 🚀.</li>
-        <li>💬 <b>Ask me about:</b> Java, Spring Boot, Python, Database Design, and algorithms (including Genetic Algorithms).</li>
-        <li> 👨‍💻 <b>All of my projects are available at:</b><a href="https://arbazkhan8957.github.io/my-portfolio/"></a>My Portfolio</li>
-        <li>📫 <b>How to reach me:</b> <a href="mailto:arbazkhan777030@gmail.com">arbazkhan777030@gmail.com</a></li>
+
+        <li>🤝 <b>Looking for help with:</b> Microservices ⚙️, API Security 🔐, and Scalable System Deployment 🚀.</li>
+
+        <li>💬 <b>Ask me about:</b> Java, Spring Boot, Python, Database Design, and Algorithms.</li>
+
+        <li>🌐 <b>Portfolio:</b> 
+          <a href="https://arbazkhan8957.github.io/my-portfolio/" target="_blank">
+            Visit My Portfolio
+          </a>
+        </li>
+
+        <li>📫 <b>Email:</b> 
+          <a href="mailto:arbazkhan777030@gmail.com">
+            arbazkhan777030@gmail.com
+          </a>
+        </li>
+
         <li>📄 <b>Resume:</b> 
-              <a href="https://drive.google.com/file/d/1ss3N-vDYpGT8pkBtn3OiF6x1pcFXyAYf/view?usp=sharing" target="_blank">
-              View my experiences</a>
+          <a href="https://drive.google.com/file/d/1ss3N-vDYpGT8pkBtn3OiF6x1pcFXyAYf/view?usp=sharing" target="_blank">
+            View My Resume
+          </a>
         </li>
       </ul>
+
     </td>
+
+    <!-- RIGHT SIDE IMAGE -->
     <td width="40%" align="center" valign="top">
-      <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 10px;">
+      <img 
+        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+        width="300"
+        alt="coding"
+        style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15);"
+      />
     </td>
+
   </tr>
 </table>
 
