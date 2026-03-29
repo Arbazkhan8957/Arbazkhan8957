@@ -135,10 +135,12 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=arbazkhan8957&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" />
+      <!-- ✅ FIXED -->
+      <img src="https://github-readme-stats.vercel.app/api?username=arbazkhan8957&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=1800" alt="GitHub Stats" />
     </td>
+
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazkhan8957&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazkhan8957&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=1800" alt="Top Languages" />
     </td>
   </tr>
 </table>
