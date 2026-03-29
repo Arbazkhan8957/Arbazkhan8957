@@ -29,7 +29,10 @@
         <li>👯 <b>Looking to collaborate on:</b> Java Spring Boot Backends, Full Stack applications, and Digital Image Processing tools.</li>
         <li>🤝 <b>Looking for help with:</b> Microservices ⚙️, API Security 🔐, and deploying highly Scalable Systems 🚀.</li>
         <li>💬 <b>Ask me about:</b> Java, Spring Boot, Python, Database Design, and algorithms (including Genetic Algorithms).</li>
-        <li> 👨‍💻 <b>All of my projects are available at:</b><a href="https://arbazkhan8957.github.io/my-portfolio/"></a>My Portfolio</li>
+        <li> 👨‍💻 <b>All of my projects are available at:</b>
+          <a href="https://arbazkhan8957.github.io/my-portfolio/">Visit My Portfolio</a>
+        </li>
+
         <li>📫 <b>How to reach me:</b> <a href="mailto:arbazkhan777030@gmail.com">arbazkhan777030@gmail.com</a></li>
         <li>📄 <b>Resume:</b> 
           <a href="https://drive.google.com/file/d/1ss3N-vDYpGT8pkBtn3OiF6x1pcFXyAYf/view?usp=sharing" target="_blank">
@@ -39,12 +42,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img 
-        alt="Coding" 
-        width="300" 
-        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
-        style="border-radius: 10px;"
-      >
+      <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
