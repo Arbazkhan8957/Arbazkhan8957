@@ -126,27 +126,25 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">📊 GitHub Analytics</h3> 
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbazkhan8957&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" /> 
+</p> 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arbazkhan8957&theme=tokyo-night&bg_color=1a1b27&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+  <tr> 
+    <td align="center" width="50%"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=arbazkhan8957&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" /> 
+    </td> 
+    <td align="center" width="50%"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazkhan8957&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" /> 
+    </td> 
+  </tr> 
+</table> 
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <!-- ✅ FIXED -->
-      <img src="https://github-readme-stats.vercel.app/api?username=arbazkhan8957&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=1800" alt="GitHub Stats" />
-    </td>
-
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arbazkhan8957&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=1800" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbazkhan8957&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+<p align="center"> 
+  <!-- ✅ ONLY THIS FIX -->
+  <img src="https://streak-stats.demolab.com/?user=arbazkhan8957&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" /> 
 </p>
 
 ---
